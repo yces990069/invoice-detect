@@ -13,4 +13,4 @@ This is my first learning outcome,using python and tensorflow making a invoice-d
 ![image](https://user-images.githubusercontent.com/80931202/134767041-7f99ade1-86c3-478f-92dc-773be9717068.png)
 
 5.run it!
-# Fundamental theorem behind
+
