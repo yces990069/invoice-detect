@@ -14,5 +14,5 @@ This is my first learning outcome,using python and tensorflow making a invoice-d
 
 5.run it!
 # Prework
-before 
+在開始訓練yolo前,我們需要發票的測試資料,這邊利用label img 來製作訓練資料
 
