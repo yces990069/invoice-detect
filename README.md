@@ -15,6 +15,6 @@ This is my first learning outcome,using python and tensorflow making a invoice-d
 5.run it!
 # Prework
 在開始訓練yolo前,我們需要發票的測試資料,這邊利用label img 來製作訓練資料。
-labelImg 是一個用於深度學習影像標記 (annotation) 的軟體，標記會以 XML (PASCAL VOC format) 格式儲存。
+  labelImg 是一個用於深度學習影像標記 (annotation) 的軟體，標記會以 XML (PASCAL VOC format) 格式儲存。
 使用上需注意資料檔名及路徑都必需是英文，比較不會出現奇怪的錯誤。
 本文的圖片資料係以網路上之發票圖片作為範例。
