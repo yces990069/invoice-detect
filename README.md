@@ -21,5 +21,7 @@ This is my first learning outcome,using python and tensorflow making a invoice-d
 使用上需注意資料檔名及路徑都必需是英文，比較不會出現奇怪的錯誤。本文的圖片資料係以網路上之發票圖片作為範例。
 
 請將欲標記的圖檔放在同一資料夾下，點選左邊 Menu 選單中的 Open Dir ，選擇放置圖檔的資料夾
+
 ![image](https://user-images.githubusercontent.com/80931202/134833884-10921e27-19a6-4f1f-b544-cb25a169359c.png)
+
 點選左邊 Menu 選單中的 Change Save Dir ，設定 annotation 標記( txt 檔案)的儲存路徑。
