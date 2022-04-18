@@ -1,6 +1,6 @@
-# I介紹
+# 介紹
 此作品為我利用pyhton和tensorflow來製作簡易發票辨識系統的作品.
-# How to use?
+# 使用方法
 1.下載 invoice_detection_colab.ipynb 或利用googlecolab打開
 
 2.將網址放入
@@ -9,10 +9,10 @@
 3下載後分別將 classes.names,obj.cfg,obj_final.weights 路徑放入正確的位置
 ![image](https://user-images.githubusercontent.com/80931202/134766981-b5668e9b-8f8e-488b-bb53-880c2e71b37e.png)
 
-4.Downlaod and put model path on it
+4.將模型的路徑放入
 ![image](https://user-images.githubusercontent.com/80931202/134767041-7f99ade1-86c3-478f-92dc-773be9717068.png)
 
-5.run it!
+5.執行!
 # Prework
 在開始訓練yolo前,我們需要發票的測試資料,這邊利用label img 來製作訓練資料。
 
