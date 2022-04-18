@@ -1,12 +1,12 @@
-# Introduce
-This is my first learning outcome,using python and tensorflow making a invoice-detect program.
+# I介紹
+此作品為我利用pyhton和tensorflow來製作簡易發票辨識系統的作品.
 # How to use?
-1.Downlaod the invoice_detection_colab.ipynb or open on colab 
+1.下載 invoice_detection_colab.ipynb 或利用googlecolab打開
 
-2.Put the img path on it
+2.將網址放入
 ![image](https://user-images.githubusercontent.com/80931202/134767012-5a7c78cd-f429-4209-9375-9687cc338efc.png)
 
-3.Downlaod and put the classes.names,obj.cfg,obj_final.weights path on it
+3下載後分別將 classes.names,obj.cfg,obj_final.weights 路徑放入正確的位置
 ![image](https://user-images.githubusercontent.com/80931202/134766981-b5668e9b-8f8e-488b-bb53-880c2e71b37e.png)
 
 4.Downlaod and put model path on it
