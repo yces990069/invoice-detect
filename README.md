@@ -24,4 +24,4 @@
 
 ![image](https://user-images.githubusercontent.com/80931202/134833884-10921e27-19a6-4f1f-b544-cb25a169359c.png)
 
-點選左邊 Menu 選單中的 Change Save Dir ，設定 annotation 標記( txt 檔案)的儲存路徑。
+點選左邊 Menu 選單中的 Change Save Dir ，設定 annotation 標記( txt 檔案)的儲存路徑。最後將檔案(jpg和txt)放到同一資料夾並按照順序以數字命名，資料就完成了。
