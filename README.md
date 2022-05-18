@@ -26,3 +26,9 @@
 
 點選左邊 Menu 選單中的 Change Save Dir ，設定 annotation 標記( txt 檔案)的儲存路徑。最後將檔案(jpg和txt)放到同一資料夾並按照順序以數字命名，資料就完成了。
 # 開始訓練
+將測試資料中的txt檔案的路徑寫入cfg檔 而路徑的方式我使用python中的os模組來獲取檔案路徑
+![image](https://user-images.githubusercontent.com/80931202/168972443-923ac5eb-2979-4047-b49b-5114ecbb5434.png)
+接下來將準備好的檔案依序放入後執行即可
+![image](https://user-images.githubusercontent.com/80931202/168972975-452786b8-98ed-4475-8bfb-3e08549dee7c.png)
+
+
