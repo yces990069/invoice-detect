@@ -1,5 +1,7 @@
 # 介紹
 此作品為我利用pyhton和tensorflow來製作簡易發票辨識系統的作品.
+而程式碼我放在google colab上，連結如下
+https://colab.research.google.com/drive/1mqi1gngzYU-3atcGZaOODvMK9yAeQcXJ?usp=sharing
 # 使用方法
 1.下載 invoice_detection_colab.ipynb 或利用googlecolab打開
 
