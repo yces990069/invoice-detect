@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/80931202/134767041-7f99ade1-86c3-478f-92dc-773be9717068.png)
 
 5.執行!
-# Prework
+# 製作測試資料
 在開始訓練yolo前,我們需要發票的測試資料,這邊利用label img 來製作訓練資料。
 
   labelImg 是一個用於深度學習影像標記 (annotation) 的軟體，標記會以 XML (PASCAL VOC format) 格式儲存。
@@ -25,3 +25,4 @@
 ![image](https://user-images.githubusercontent.com/80931202/134833884-10921e27-19a6-4f1f-b544-cb25a169359c.png)
 
 點選左邊 Menu 選單中的 Change Save Dir ，設定 annotation 標記( txt 檔案)的儲存路徑。最後將檔案(jpg和txt)放到同一資料夾並按照順序以數字命名，資料就完成了。
+# 開始訓練
